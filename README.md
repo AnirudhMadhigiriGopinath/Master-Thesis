@@ -30,3 +30,15 @@ resource prediction. The analyzed failed and canceled jobs are plotted to find t
 factors affecting the jobs. Also, the cluster usage analysis is visualized to see the
 individual project active periods.
 
+**Goals**
+Task 1: Data pre-processing and basic statists .
+Task 2: Deep understanding of job characteristics using data analytics.
+Task 3: Analysis of the cluster utilization (Job’s arrival pattern and resource utilization) to strategize the submission of jobs.
+Task 4: Unsupervised learning to create the clusters containing jobs of similar properties for further analysis.
+Task 5: Supervised learning to predict the resources required for the jobs such as time limit, nodes, and MaxRSS to avoid jobs getting failed or canceled, and make efficient utilization of the resources.
+Task 6: Analysis of failed and canceled jobs to determine the factors affecting it.
+
+
+
+
+
