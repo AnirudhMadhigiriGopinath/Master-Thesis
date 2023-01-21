@@ -31,6 +31,7 @@ factors affecting the jobs. Also, the cluster usage analysis is visualized to se
 individual project active periods.
 
 **Goals**
+
 Task 1: Data pre-processing and basic statists.
 
 Task 2: Deep understanding of job characteristics using data analytics.
