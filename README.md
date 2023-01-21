@@ -46,7 +46,5 @@ Task 6: Analysis of failed and canceled jobs to determine the factors affecting 
 
 ** The whole code for the above mentioned goals are in the repo Jupyter files. The Data should not be shared according to University of Paderborn Privacy rule. Hence, the data is not uploaded. **
 
-** The results are presented in the powerpoint presentation **
-
 
 
