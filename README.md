@@ -1,4 +1,4 @@
-# Master-Thesis
+# Master-Thesis - Analysis of Job Traces in HPC Systems
 The usage of HPC systems is increasing as the number of users and
 jobs getting submitted surges. Because of the diverse workload, understanding or
 characterizing jobs has become difficult. This causes jobs to fail or be canceled
