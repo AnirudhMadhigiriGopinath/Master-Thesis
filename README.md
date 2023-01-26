@@ -44,7 +44,7 @@ Task 5: Supervised learning to predict the resources required for the jobs such 
 
 Task 6: Analysis of failed and canceled jobs to determine the factors affecting it.
 
-** The whole code for the above mentioned goals are in the repo Jupyter files. The Data should not be shared according to University of Paderborn Privacy rule. Hence, the data is not uploaded. **
+** The whole code for the above mentioned goals are in the repo Jupyter files. The Data should not be shared according to University of Paderborn Privacy rule. Hence, the data is not uploaded. The results and discussions are in the power point presentastion in Results folder -  **
 
 
 
